@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1809136-9973-4f7c-9fba-eae43ef992ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ohaHQRtvPBHwxdtqtKuMe8xCxr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.Chaka">
+    <configuration name="Chaka" type="TestNG">
+      <module name="ChakaAuto" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ChakaAuto" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.&lt;default&gt;" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1809136-9973-4f7c-9fba-eae43ef992ee" name="Default Changelist" comment="" />
+      <created>1613741187211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613741187211</updated>
+      <workItem from="1613741194670" duration="3736000" />
+      <workItem from="1613752786144" duration="2020000" />
+      <workItem from="1614180817296" duration="2257000" />
+      <workItem from="1614183095273" duration="1548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="3" key="#&lt;default&gt;_(1)" timestamp="1613755176686">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="3" key="#&lt;default&gt;_(1)/0.0.1366.738@0.0.1366.738" timestamp="1613755176686" />
+    <state x="275" y="9" width="816" height="729" key="#Intentions" timestamp="1613743264940">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="9" width="816" height="729" key="#Intentions/0.0.1366.738@0.0.1366.738" timestamp="1613743264940" />
+    <state x="275" y="27" key="#Project_Structure" timestamp="1613743710089">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1613743710089" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1614184651462">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1614184651462" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1614184651461">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1614184651461" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1614184651461">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1614184651461" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1614184651461">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1614184651461" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1614183079769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1614183079769" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1614183079769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1614183079769" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1614183079769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1614183079769" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1614183079769">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1614183079769" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1614181837081">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1614181837081" />
+  </component>
+</project>
